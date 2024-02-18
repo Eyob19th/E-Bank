@@ -2,7 +2,9 @@
 
 E-Bank is a web-based banking application that allows users to manage their accounts, perform transactions, and access various banking services.
 ### Images
+. Home page
 <img width="934" alt="e bank home page " src="https://github.com/Eyob19th/E-Bank/assets/99553287/e343557d-2169-4342-b43c-a38541a4f705">
+. login page
 <img width="920" alt="e bank login page " src="https://github.com/Eyob19th/E-Bank/assets/99553287/9f2f13a2-35d9-4df0-9a2c-cffff062d206">
 
 ## Features
