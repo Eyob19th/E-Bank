@@ -34,12 +34,12 @@ These instructions will help you set up and run the E-Bank application on your l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/E-Bank.git
+   git clone git@github.com:Eyob19th/E-Bank.git
 Navigate to the project directory:cd E-Bank
 Install dependencies:npm install
-Set up environment variables:
 
 Create a .env file based on .env.example and provide necessary configurations (database connection, secret keys, etc.).
 Run the application:npm start
-### Contact
-For any inquiries or issues, please contact [Eyob19th],[getacheweyob732@gmail.com].
+## Contact
+
+For any inquiries or issues, please contact [@Eyob19th](https://github.com/Eyob19th).
