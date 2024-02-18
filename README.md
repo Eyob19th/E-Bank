@@ -54,7 +54,21 @@ These instructions will help you set up and run the E-Bank application on your l
 Navigate to the project directory:cd E-Bank
 Install dependencies:npm install
 
-Create a .env file based on .env.example and provide necessary configurations (database connection, secret keys, etc.).
+Create a .env file based on .env.example ...
+# MongoDB Configuration
+DB_HOST=localhost
+DB_PORT=5000`
+DB_NAME=e_bank_database
+
+# Application Secret Key
+SECRET_KEY=mySecretKeyForEbank
+
+# JWT Secret Key
+JWT_SECRET=myJWTSecretKey
+
+# Server Port
+PORT=3000
+
 Run the application:npm start
 ## Contact
 
