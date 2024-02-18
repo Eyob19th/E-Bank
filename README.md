@@ -42,4 +42,4 @@ Create a .env file based on .env.example and provide necessary configurations (d
 Run the application:npm start
 ## Contact
 
-For any inquiries or issues, please contact [@Eyob19th](https://github.com/Eyob19th).
+For any inquiries or issues, please contact [@Eyob19th](https://github.com/Eyob19th). (getacheweyob732@gmail.com).
